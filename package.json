@@ -1,0 +1,11 @@
+{
+  "name": "omniroute-render",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {
+    "omniroute": "3.8.50"
+  }
+}
